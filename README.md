@@ -1,6 +1,6 @@
 # Hi there, I'm Cyril! 👋
 
-I love building and creating. I build scalable applications and am always learning.
+I love building, and over here I build scalable applications.
 
 ---
 
