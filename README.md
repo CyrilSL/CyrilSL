@@ -1,16 +1,6 @@
 # Hi there, I'm Cyril! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building things for the web.
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on interesting web projects.
-- 🌱 I’m currently learning advanced frontend frameworks and AI integration.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about **Web Development, JavaScript, and UI/UX Design**.
-- 📫 How to reach me: [Your Email Here]
+I love building and creating. I build scalable applications and am always learning.
 
 ---
 
@@ -30,21 +20,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyrilSL&show_icons=true&theme=radical" alt="CyrilSL's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilSL&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/feralcyril)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/)
-<br />
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/feralcyril)
