@@ -25,6 +25,14 @@ I love building and creating. I build scalable applications and am always learni
 
 ---
 
-### 🔗 Connect with Me
+### � GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyrilSL&show_icons=true&theme=radical&hide=stars,prs,issues,contribs" alt="CyrilSL's GitHub stats" />
+</p>
+
+---
+
+### �🔗 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/feralcyril)
